@@ -1,0 +1,5 @@
+cp -rf /ictc/student_data/share/pd/02_ss2/lab3/lef/stdcell.lef ./lef/.
+cp -rf /ictc/student_data/share/pd/02_ss2/lab3/lef/tech.tlef   ./lef/.
+cp -rf /ictc/student_data/share/pd/02_ss2/lab3/lib/stdcell.lib ./lib/.
+cp -rf /ictc/student_data/share/pd/02_ss2/lab3/sdc/constraints.sdc ./sdc/.
+
